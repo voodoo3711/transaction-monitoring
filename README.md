@@ -24,7 +24,7 @@ By combining these information with analysis of customers’ historical informat
 
 ## Instructions
 
-1. Clone this repository using `git clone https://github.com/UtkarshChaurasia/Transaction-Monitoring.git`
+1. Clone this repository using `git clone https://github.com/voodoo3711/transaction-monitoring.git`
 2. Install python using `sudo apt-get install python3.6`
 3. Switch to repository folder. 
 3. Install all the required libraries using `pip install -r requirements.txt`
