@@ -106,7 +106,7 @@ def main():
         data=st.file_uploader("Upload your dataset",type=['csv'])
         if data is not None:
             df = pd.read_csv(data)
-            st.dataframe(df.head(10))
+            st.dataframe(df)
             st.success("Data Successfully loaded")
             model = load_model()
 
