@@ -118,6 +118,12 @@ def main():
 
                 st.title("Your Output is")
                 st.dataframe(df)
+    elif option=='Developers':
+        st.title("Developers")
+        st.header("Devansh Punj")
+        st.subheader("IITM MCA 2024-2026")
+        st.markdown("**Final Year Project**")
+        st.markdown("**Transaction Monitoring - An Anti-Money Laundering System**")
 
                 
             
